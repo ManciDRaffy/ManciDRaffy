@@ -65,8 +65,10 @@ based in: Germany 🇩🇪  ·  working remote
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ManciDRaffy&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&count_private=true" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManciDRaffy&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="top languages" />
+<img width="82%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ManciDRaffy&theme=tokyonight" alt="profile summary" />
+<br/>
+<img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ManciDRaffy&theme=tokyonight" alt="stats" />
+<img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ManciDRaffy&theme=tokyonight&utcOffset=1" alt="productive time" />
 
 </div>
 
