@@ -2,9 +2,11 @@
 
 # Marcel Kummerow
 
-<a href="https://kumma.dev">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=8A2BE2&center=true&vCenter=true&width=520&height=45&lines=Freelance+Full-Stack+%26+AI+Engineer;I+build+AI-driven+products;...+and+the+self-hosted+infra+they+run+on;Python+%C2%B7+FastAPI+%C2%B7+Nuxt+%C2%B7+TypeScript" alt="Freelance Full-Stack & AI Engineer" />
-</a>
+### Freelance Full-Stack&nbsp; &amp; &nbsp;AI Engineer
+
+*I build AI-driven products — and the self-hosted infrastructure they run on.*
+<br/>
+`Python · FastAPI · Nuxt · TypeScript · LLM / MCP`
 
 [![Available for freelance](https://img.shields.io/badge/Available_for_freelance-2ea44f?style=flat-square&logo=statuspage&logoColor=white)](mailto:contact@salzig.zip)
 [![Portfolio](https://img.shields.io/badge/kumma.dev-8A2BE2?style=flat-square&logo=nuxt&logoColor=white)](https://kumma.dev)
